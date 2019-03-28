@@ -1,0 +1,7 @@
+git clone https://github.com/CauchyComplete/hello-world
+git pull
+git status
+git add README.md
+git add -A
+git commit -m "modified README.md"
+git push
