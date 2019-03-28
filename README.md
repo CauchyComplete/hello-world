@@ -1,3 +1,4 @@
 # hello-world
 for the first time
-hello ff
+I'm learning git now!
+It's confusing but I'll get used to it..
