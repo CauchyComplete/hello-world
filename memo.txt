@@ -5,3 +5,6 @@ git add README.md
 git add -A
 git commit -m "modified README.md"
 git push
+
+git commit -a -m "without add"
+git log -2
