@@ -8,3 +8,11 @@ git push
 
 git commit -a -m "without add"
 git log -2
+
+
+# remove files from repository only, not from local filesystem
+# reference : https://stackoverflow.com/questions/1143796/remove-a-file-from-a-git-repository-without-deleting-it-from-the-local-filesyste
+# for a single file:
+git rm --cached mylogfile.log
+# for a single directory:
+git rm --cached -r mydirectory
